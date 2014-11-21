@@ -1,5 +1,4 @@
 makeCacheMatrix <- function(x = numeric()) {
-        
         # holds the cached value or NULL if nothing is cached
         # initially nothing is cached so set it to NULL
         cache <- NULL
